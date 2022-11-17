@@ -72,4 +72,5 @@ console.log(num);
   console.log(typeof length);
   console.log(typeof lastName);
 
+
 // 8) Напишите тип данных переменных
